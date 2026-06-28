@@ -340,7 +340,7 @@ export default function App() {
                     {/*Product image */}
                     <div className="my-6 relative flex justify-center h-56 items-center">
                       <img
-                        src="/src/assets/images/aglaonema_plant_1782552273018.jpg"
+                        src={aglaonema}
                         alt="Aglaonema plant"
                         className="w-48 h-48 object-contain drop-shadow-[0_15px_30px_rgba(0,0,0,0.6)] group-hover:scale-105 transition-transform duration-500"
                         referrerPolicy="no-referrer"
